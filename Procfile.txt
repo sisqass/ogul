@@ -1,0 +1,1 @@
+worker: python vc_token_bot.py
